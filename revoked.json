@@ -1,1 +1,8 @@
-{"v": 1, "issued": 1794289355, "revoked": [], "sig": "MEQCIEsMcc_VwQn8aNzBNvOawjS_6oJow-OF0qv9cUdTInPnAiByqrnsIcNmaBD_x6QGgEXzy_S_ruy52i28HA9yCMOkYw=="}
+{
+  "v": 1,
+  "issued": 1794289356,
+  "revoked": [
+    "aaaabbbbcccc"
+  ],
+  "sig": "MEQCIFvWl6_mXakeStUua5jKgd5k9FeWa-wBZMd3Gd42_NqfAiBUboDI1G6j2UvOkhyPmqX0_wHxABLI3X5O8xjdePHhaQ=="
+}

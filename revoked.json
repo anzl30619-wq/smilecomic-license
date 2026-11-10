@@ -1,9 +1,10 @@
 {
   "v": 1,
-  "issued": 1794289650,
+  "issued": 1794289952,
   "revoked": [
     "57a949f80173",
-    "72fa7c60f72c"
+    "72fa7c60f72c",
+    "d5ae411afb5a"
   ],
-  "sig": "MEUCIGfmYghbX5iHOybjtAKrfzc1B0HrZX2xYJJxDjdfiFInAiEAk4-GT99OMW1z6AtLauZW5AAoxfWgsBRIXIwO2VnX9bY="
+  "sig": "MEYCIQDS49cAXSZWKBNJCIHy4SB0YCNYWlDJHpznSQWOUrCm4wIhAJTaIiF4DvGzQyhHMGrGz617ZWhnO_ZA6yzP8AUwozNa"
 }
